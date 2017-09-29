@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+boost_py.egg-info/PKG-INFO
+boost_py.egg-info/SOURCES.txt
+boost_py.egg-info/dependency_links.txt
+boost_py.egg-info/entry_points.txt
+boost_py.egg-info/requires.txt
+boost_py.egg-info/top_level.txt
+data/data_file

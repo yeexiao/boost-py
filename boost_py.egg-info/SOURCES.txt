@@ -3,10 +3,16 @@ MANIFEST.in
 README.rst
 setup.cfg
 setup.py
+boost_py/__init__.py
 boost_py.egg-info/PKG-INFO
 boost_py.egg-info/SOURCES.txt
 boost_py.egg-info/dependency_links.txt
 boost_py.egg-info/entry_points.txt
 boost_py.egg-info/requires.txt
 boost_py.egg-info/top_level.txt
+boost_py/helpers/__init__.py
+boost_py/helpers/datetime_helper.py
+boost_py/helpers/string_helper.py
+boost_py/helpers/uuid_helper.py
+boost_py/samples/__init__.py
 data/data_file

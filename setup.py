@@ -17,7 +17,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 setup(
     name='boost-py',
 
-    version='0.0.2',
+    version='0.1.0',
 
     description='boost-py is for python script&service&spider and so on development quickly',
     long_description=long_description,

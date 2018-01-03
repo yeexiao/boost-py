@@ -8,5 +8,5 @@
 @time: 7/8/17 9:24 PM
 """
 
-__version__ = '0.0.2'
+__version__ = '0.1.0'
 VERSION = tuple(map(int, __version__.split('.')))
